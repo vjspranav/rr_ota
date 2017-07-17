@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+	<Stable>
+        <garlic>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download RR Latest Build"></RomUrl>
+              <FolderUrl
+	       id="folder"
+               title="Folder"
+	       description="Garlic Download Folder">https://sourceforge.net/projects/resurrectionremix/files/garlic/</FolderUrl>
+	      <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelogs">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+               <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download Latest OpenGapps">http://opengapps.org/</GappsUrl>
+        </garlic>
+    </Stable>
+</SlimOTA>
