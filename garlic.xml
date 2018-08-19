@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
         <garlic>
-            <Filename>RR-O-v6.1.0-20180805-garlic-Official.zip</Filename>
+            <Filename>RR-O-v6.1.0-20180818-garlic-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download RR Latest Build">https://sourceforge.net/projects/resurrectionremix-oreo/files/garlic/RR-O-v6.1.0-20180805-garlic-Official.zip/download</RomUrl>
+                description="Download RR Latest Build">https://sourceforge.net/projects/resurrectionremix-oreo/files/garlic/RR-O-v6.1.0-20180818-garlic-Official.zip/download</RomUrl>
               <FolderUrl
 	       id="folder"
                title="Folder"
